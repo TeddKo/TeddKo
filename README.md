@@ -3,10 +3,10 @@
 </p>
 <p align=center dir=auto>
   <a href="https://www.notion.so/StateFlow-30c456c1cb204725afcc4a950c0f3882" rel=nofollow>
-    <img alt="Static Badge" src="https://img.shields.io/badge/TeddKo-171717?logo=Notion&label=Notion&labelColor=000000&color=ffffff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tddy.Ko-171717?logo=Notion&label=Notion&labelColor=000000&color=ffffff">
   </a>
   <a href="https://www.instagram.com/m_h.__.ko" rel=nofollow>
-    <img alt="Static Badge" src="https://img.shields.io/badge/TeddKo-171717?logo=Instagram&label=Instagram&labelColor=000000&color=E4405F">
+    <img alt="Static Badge" src="https://img.shields.io/badge/m_h.__.ko-171717?logo=Instagram&label=Instagram&labelColor=000000&color=E4405F">
   </a>
   <a href="http://teddko.github.io/" rel=nofollow>
     <img alt="Static Badge" src="https://img.shields.io/badge/TeddKo-171717?logo=Github&label=Blog&labelColor=000000&color=ffffff">
