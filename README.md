@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align=center>
+  🧸
+</p>
+<p align=center dir=auto>
+  <a href="https://www.notion.so/StateFlow-30c456c1cb204725afcc4a950c0f3882" rel=nofollow>
+    <img alt="Static Badge" src="https://img.shields.io/badge/TeddKo-171717?logo=Notion&label=Notion&labelColor=000000&color=ffffff">
+  </a>
+  <a href="https://www.instagram.com/m_h.__.ko" rel=nofollow>
+    <img alt="Static Badge" src="https://img.shields.io/badge/TeddKo-171717?logo=Instagram&label=Instagram&labelColor=000000&color=E4405F">
+  </a>
+  <a href="http://teddko.github.io/" rel=nofollow>
+    <img alt="Static Badge" src="https://img.shields.io/badge/TeddKo-171717?logo=Github&label=Blog&labelColor=000000&color=ffffff">
+  </a>
+</p>
 
-<!--
-**TeddKo/TeddKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center dir=auto>
+  <a href="https://github.com/teddko" rel=nofollow>
+    <img src="https://github-readme-stats.vercel.app/api?username=teddko&amp;count_private=true&amp;show_icons=true" alt="Anurag&#39;s GitHub stats">
+  </a>
+</p>
