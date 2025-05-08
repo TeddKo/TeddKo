@@ -2,7 +2,7 @@
   🧸
 </p>
 <p align=center dir=auto>
-  <a href="https://mellow-submarine-d84.notion.site/StateFlow-30c456c1cb204725afcc4a950c0f3882?pvs=4" rel=nofollow>
+  <a href="https://bow-bird-e0a.notion.site/1c89aae69408803bacaacb4608facef4?pvs=4" rel=nofollow>
     <img alt="Static Badge" src="https://img.shields.io/badge/Tddy.Ko-171717?logo=Notion&label=Notion&labelColor=000000&color=ffffff">
   </a>
   <a href="https://www.instagram.com/m_h.__.ko" rel=nofollow>
