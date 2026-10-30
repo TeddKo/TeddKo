@@ -15,6 +15,6 @@
 
 <p align=center dir=auto>
   <a href="https://github.com/teddko" rel=nofollow>
-    <img src="https://github-readme-stats.vercel.app/api?username=teddko&amp;count_private=true&amp;show_icons=true" alt="Anurag&#39;s GitHub stats">
+    <img src="https://github-stats-extended.vercel.app/api?username=teddko&count_private=true&show_icons=true" alt="teddko's GitHub stats">
   </a>
 </p>
