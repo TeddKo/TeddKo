@@ -5,7 +5,7 @@
   <a href="https://bow-bird-e0a.notion.site/1c89aae69408803bacaacb4608facef4?pvs=4" rel=nofollow>
     <img alt="Static Badge" src="https://img.shields.io/badge/Tddy.Ko-171717?logo=Notion&label=Notion&labelColor=000000&color=ffffff">
   </a>
-  <a href="https://www.instagram.com/m_h.__.ko" rel=nofollow>
+  <a href="https://www.instagram.com/tedd.__.ko" rel=nofollow>
     <img alt="Static Badge" src="https://img.shields.io/badge/tedd.__.ko-171717?logo=Instagram&label=Instagram&labelColor=000000&color=E4405F">
   </a>
   <a href="http://teddko.github.io/" rel=nofollow>
