@@ -20,5 +20,5 @@
   olor_light=7C3AED&text_color_light=4C3A78&icon_color_light=8B5CF6&ring_color_light=A78BFA&bg_color_dark=135,2A2145,231C
   3D,1C1733&title_color_dark=C4B5FD&text_color_dark=E4DBFF&icon_color_dark=A78BFA&ring_color_dark=C4B5FD" alt="teddko's  
   GitHub stats">                                                                                                         
-    </a>                                                                                                                 
+    </a>
 </p>
